@@ -1,11 +1,7 @@
-# README
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!;enjoy+my+projects)](https://git.io/typing-svg)
 
 <h2 align="left">Hi guys👋</h2>
 
-
-###
-
-<h3 align="left">https://readme-typing-svg.herokuapp.com/demo/?lines=Welcome+to+my+profile!;enjoy+my+projects</h3>
 
 ###
 
